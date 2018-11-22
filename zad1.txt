@@ -1,0 +1,7 @@
+Paczki java:
+    paczki specjalne od cloudery z dopiskiem cdh jak np hadoop-common itd
+    /usr/lib/hadoop/client-0.20 i wszystkie z folderu hadoop bez wersji na końcu
+    /usr/lib/hadoop/lib/commons-httpclient-3.1
+
+Debugowanie:
+    stawianie breakpointów jak w każdym normalnym IDE
